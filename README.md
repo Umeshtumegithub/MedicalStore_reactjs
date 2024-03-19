@@ -1,1 +1,1 @@
-# MedicalStore_reactjs
+# MedicalStore_reacts
